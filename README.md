@@ -1,6 +1,8 @@
 ### OpenCV: Open Source Computer Vision Library
 
 This repository contains extra data for the OpenCV library.
+OpenCV is extensively used for image processing.
+It contains all the functions required for image and video processing.
 
 #### Resources
 * Homepage: http://opencv.org
